@@ -1,0 +1,12 @@
+{
+  "name": "stattic-parseurl",
+  "version": "0.1.0",
+  "description": "Parse an url. Made for stattic tool.",
+  "keywords": ["ext", "extension", "extname", "url", "full-url"],
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "main": "./index.js",
+  "repository": { "type": "git", "url": "https://github.com/statticjs/stattic-parseurl.git" },
+  "scripts": { },
+  "dependencies": { },
+  "license": "MIT"
+}
